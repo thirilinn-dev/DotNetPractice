@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="DotNetPractice.ConsoleApp1/DotNetPractice.ConsoleApp1.csproj" />
   <Project Path="DotNetPractice.ConsoleApp2/DotNetPractice.ConsoleApp2.csproj" Id="1688c323-2407-4c13-be76-e9333185fe33" />
+  <Project Path="DotNetPractice.ConsoleApp3/DotNetPractice.ConsoleApp3.csproj" Id="8980bf2d-b002-4f96-90e2-b3f6a25d36ef" />
 </Solution>
