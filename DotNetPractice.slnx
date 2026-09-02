@@ -4,4 +4,5 @@
   <Project Path="DotNetPractice.ConsoleApp3/DotNetPractice.ConsoleApp3.csproj" Id="8980bf2d-b002-4f96-90e2-b3f6a25d36ef" />
   <Project Path="DotNetPractice.ConsoleApp4/DotNetPractice.ConsoleApp4.csproj" Id="df1d75d3-fdaf-473d-858b-da850c19c885" />
   <Project Path="DotNetPractice.ConsoleApp5/DotNetPractice.ConsoleApp5.csproj" Id="6e70593d-8105-4193-87b2-4797156a1bf1" />
+  <Project Path="DotNetPractice.ConsoleApp6/DotNetPractice.ConsoleApp6.csproj" Id="af978f71-59bd-4287-8ef7-fbdbd9783050" />
 </Solution>
